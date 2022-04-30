@@ -1,10 +1,4 @@
-# Описание проекта NeuroStartUp:
+# This is a junior fullstack web developers github home page
 
-NeuroStartUp — д
-инамически развивающийся стартап, специализирующийся на поиске с использованием новейших технологий искусственного интеллекта. Наши преимущества:
-
-  * Высокая точность поиска
-  * Высокая скорость поиска
-  * Низкая цена
-
-![Логотип](./img/logo.png)
+see more info on [laps78.github.io](https://laps78.github.io)
+visit my personal blog website(_language: russian_) [click!](https://prolaps.uxp.ru)
