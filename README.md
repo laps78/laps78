@@ -2,9 +2,11 @@
 
 ## STACK
 
-**main:** JS, HTML5, CSS3
+**main:** 
+[JS] node.js, express.js, react.js, 
+[docker], [HTML5], [CSS3]
 
-**other:** php7, python3, bash, c++/wiring
+**other:** [php7], [python3], [bash], [c++/wiring]
 
 Wordpress plugins, Telegram bots, browser extensions, progressive web apps e.t.c.
 
