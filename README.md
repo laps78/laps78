@@ -11,4 +11,5 @@
 Wordpress plugins, Telegram bots, browser extensions, progressive web apps e.t.c.
 
 see more info on [laps78.github.io](https://laps78.github.io)
+А еще я участвую в beta-тестировании нашего аналога github: [GitVerse homepage](https://gitverse.ru/laps-lab)
 visit my personal blog website(_language: russian_) [prolaps.ru](https://prolaps.ru)
