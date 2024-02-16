@@ -1,6 +1,10 @@
 # This is a fullstack web developer's github home page
 
-JS, HTML5, CSS3, php7, python3, bash, c++/wiring
+## STACK
+
+**main:** JS, HTML5, CSS3
+
+**other:** php7, python3, bash, c++/wiring
 
 Wordpress plugins, Telegram bots, browser extensions, progressive web apps e.t.c.
 
