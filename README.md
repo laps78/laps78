@@ -21,9 +21,14 @@ visit my personal blog website(_language: russian_) [prolaps.ru](https://prolaps
 ### Статистика профиля
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=laps78&theme=solarized_dark" style="width: 100%">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=laps78&theme=solarized_dark" style="width: 50%"><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=laps78&theme=solarized_dark" style="width: 50%">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=laps78&theme=solarized_dark" style="width: 50%"><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=laps78&theme=solarized_dark" style="width: 50%">
-
+<div style="width: 100%">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=laps78&theme=solarized_dark" style="width: 50%">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=laps78&theme=solarized_dark" style="width: 50%">
+</div>
+<div style="width: 100%">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=laps78&theme=solarized_dark" style="width: 50%">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=laps78&theme=solarized_dark" style="width: 50%">
+</div>
 ---
 
 ![](https://komarev.com/ghpvc/?username=laps78)
