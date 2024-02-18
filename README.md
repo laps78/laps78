@@ -17,10 +17,12 @@ see more info on [laps78.github.io](https://laps78.github.io)
 visit my personal blog website(_language: russian_) [prolaps.ru](https://prolaps.ru)
 
 ---
+
 ### Статистика профиля
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=laps78&theme=solarized_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=laps78&theme=solarized_dark)![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=laps78&theme=solarized_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=laps78&theme=solarized_dark)![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=laps78&theme=solarized_dark)
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=laps78&theme=solarized_dark" style="width: 100%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=laps78&theme=solarized_dark" style="width: 50%"><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=laps78&theme=solarized_dark" style="width: 50%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=laps78&theme=solarized_dark" style="width: 50%"><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=laps78&theme=solarized_dark" style="width: 50%">
 
 ---
 
