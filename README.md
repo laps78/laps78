@@ -20,31 +20,14 @@ visit my personal blog website(_language: russian_) [prolaps.ru](https://prolaps
 
 ### Статистика профиля
 
-<div class="full_width_centered" style="width: 100%;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-  }">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=laps78&theme=solarized_dark" class="full__width" style="width: 100%"alt="Основная статистика">
-</div>
-<div class="full_width_centered" style="width: 100%;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-  }">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=laps78&theme=solarized_dark" class="half__width" style="width: 50%" alt="Статистика языков по коммитам">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=laps78&theme=solarized_dark" class="half__width" style="width: 50%" alt="Статистика языков по репозиториям">
-</div>
-<div 
-  class="full_width_centered" 
-  style="width: 100%;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-  }">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=laps78&theme=solarized_dark" class="half__width" style="width: 50%">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=laps78&theme=solarized_dark" class="half__width" style="width: 50%;">
-</div>
----
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=laps78&theme=solarized_dark" width="100%" alt="Основная статистика">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=laps78&theme=solarized_dark" width="100%" alt="Статистика языков по коммитам">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=laps78&theme=solarized_dark" width="100%" alt="Статистика языков по репозиториям">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=laps78&theme=solarized_dark" width="100%">
+
+## <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=laps78&theme=solarized_dark" width="100%">
 
 ![СЧЕТЧИК ПРОСМОТРОВ](https://komarev.com/ghpvc/?username=laps78)
