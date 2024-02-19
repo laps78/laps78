@@ -2,7 +2,7 @@
 
 # Евгений L.A.P.S. Лаптев
 
-Разработчик JavaScript
+Разработчик JavaScript [fullstack]
 
 ## Основной стэк
 
