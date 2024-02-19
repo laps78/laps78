@@ -1,8 +1,8 @@
-<img src="./img/screen.jpg" width="100%">
-
 # Евгений L.A.P.S. Лаптев
 
 Разработчик JavaScript [fullstack]
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=127.0.0.1:KISS_MY_OPEN-SOURCE)](https://git.io/typing-svg)
 
 ## Основной стэк
 
