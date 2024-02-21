@@ -2,7 +2,7 @@
 
 Разработчик JavaScript [fullstack]
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=127.0.0.1:KISS_MY_OPEN-SOURCE)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=127.0.0.1:KISS&nbsp;MY&nbsp;OPEN-SOURCE)](https://git.io/typing-svg)
 
 ## Основной стэк
 
