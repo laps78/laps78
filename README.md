@@ -2,7 +2,7 @@
 
 Разработчик JavaScript [fullstack]
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=127.0.0.1:KISS&nbsp;MY&nbsp;OPEN-SOURCE)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=127.0.0.1:KISS MY OPEN-SOURCE)](https://git.io/typing-svg)
 
 ## Основной стэк
 
@@ -18,6 +18,12 @@
 
 Серверные приложения, микросервисы, web-приложения, плагины Wordpress, боты Telegram, расширения для браузеров, скрипты и не только..
 Аще есть кое-какие пользовательские скрипты: [пользовательские скрипты L.A.P.S. Lab](https://greasyfork.org/ru/scripts?q=laps78)
+
+---
+
+## Последний релиз - горячая новинка!
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=laps78&repo=hh-resumes-update)](https://github.com/laps78/hh-resumes-update)
 
 ---
 
