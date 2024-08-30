@@ -1,6 +1,6 @@
 # Евгений L.A.P.S. Лаптев
 
-Разработчик JavaScript [fullstack]
+Разработчик TypeScript/JavaScript [fullstack]
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=127.0.0.1:KISS MY OPEN-SOURCE)](https://git.io/typing-svg)
 
