@@ -16,8 +16,8 @@
 
 ## Что здесь можно найти?
 
-Серверные приложения, микросервисы, web-приложения, плагины Wordpress, боты Telegram, расширения для браузеров, скрипты и не только..
-Аще есть кое-какие пользовательские скрипты: [пользовательские скрипты L.A.P.S. Lab](https://greasyfork.org/ru/scripts?q=laps78)
+Серверные приложения, микросервисы, web-приложения, плагины Wordpress, боты для Telegram и VK, расширения для браузеров и не только..
+А еще есть кое-какие пользовательские скрипты: [пользовательские скрипты L.A.P.S. Lab](https://greasyfork.org/ru/scripts?q=laps78)
 
 ---
 
@@ -31,9 +31,9 @@
 
 Страничка разработчика на github pages [laps78.github.io](https://laps78.github.io)
 
-А еще я участвую в beta-тестировании нашего аналога github: [GitVerse homepage](https://gitverse.ru/laps-lab)
+Аккаунт на платформе российского аналога github: [GitVerse homepage](https://gitverse.ru/laps-lab)
 
-Заходите на сайт: [prolaps.ru](https://prolaps.ru)
+**Обязательно заходите** на сайт: [prolaps.ru](https://prolaps.ru)
 
 ---
 
